@@ -2,6 +2,7 @@
 
 * [开篇](README.md)
 * [结缘Bootstrap](withbootstrap/README.md)
+* [浅析SPField.*Name](spfieldname/README.md)
 * [SharePoint 的历史](history/README.md)
 * [备用访问映射](aam/README.md)
 * [Url的故事](urlstory/README.md)
